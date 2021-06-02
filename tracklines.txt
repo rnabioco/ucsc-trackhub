@@ -1,0 +1,4 @@
+track type=bigWig bigDataUrl="https://rnabioco.github.io/ucsc-trackhub/SRR1105736/SRR1105736.pos.bw" name='SRR1105736 pos' description='PRO-seq SRR1105736 pos' color=80,40,0 maxHeightPixels=50:50:25 visibility=full
+track type=bigWig bigDataUrl="https://rnabioco.github.io/ucsc-trackhub/SRR1105736/SRR1105736.neg.bw" name='SRR1105736 neg' description='PRO-seq SRR1105736 neg' color=0,45,70 maxHeightPixels=50:50:25 visibility=full
+track type=bigBed bigDataUrl="https://rnabioco.github.io/ucsc-trackhub/SRR1105736/SRR1105736.tfit.bb" name='SRR1105736 tfit' description='PRO-seq SRR1105736 tfit calls' color=90,60,0 maxHeightPixels=50:50:25 visibility=dense
+track type=bigNarrowPeak bigDataUrl="https://rnabioco.github.io/ucsc-trackhub/SRR1105736/SRR1105736.tfit.np.bb" name='SRR1105736 tfit' description='PRO-seq SRR1105736 tfit calls' color=90,60,0 maxHeightPixels=50:50:25 visibility=dense
